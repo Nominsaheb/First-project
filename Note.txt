@@ -1,0 +1,7 @@
+<i class="fa-regular fa-grid"></i>
+
+<i class="fa-duotone fa-magnifying-glass"></i>
+
+<i class="fa-duotone fa-microphone"></i>
+
+<i class="fa-duotone fa-camera-viewfinder"></i>
